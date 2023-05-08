@@ -1,4 +1,4 @@
 config:
-  info: "config-prod.yml version-6"
+  info: "config-prod.yml version-7"
 server:
   port: 3357
